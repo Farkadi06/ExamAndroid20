@@ -1,7 +1,7 @@
 package com.example.sqlliteexam;
 
-import com.example.sqlliteexam.models.EmployeeModelClass;
+import com.example.sqlliteexam.models.PlantesModelClass;
 
 public interface SelectItemListener {
-    void onItemClicked(EmployeeModelClass myModel);
+    void onItemClicked(PlantesModelClass myModel);
 }
